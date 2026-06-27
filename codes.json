@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-06-27T18:40:19.192109+00:00",
+  "updatedAt": "2026-06-27T21:20:09.339488+00:00",
   "codes": [
+    {
+      "id": 1782595209339,
+      "name": "Code Stake — stakecomwmnyg9s8...",
+      "description": {
+        "fr": "Drop Stake",
+        "en": "Stake drop"
+      },
+      "value": {
+        "fr": "—",
+        "en": "—"
+      },
+      "wager": null,
+      "claims": null,
+      "code": "stakecomwmnyg9s89mj2in",
+      "type": "drop",
+      "status": "active",
+      "expires": null,
+      "claimUrl": "https://stake.com/?offer=stakecomwmnyg9s89mj2in",
+      "source": "AntebotStakeCodes",
+      "addedAt": "2026-06-27T21:20:08+00:00"
+    },
     {
       "id": 1782585619191,
       "name": "Code Stake — stakecom0u6clcum...",
