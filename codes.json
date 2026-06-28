@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-06-28T06:52:05.912990+00:00",
+  "updatedAt": "2026-06-28T11:23:04.919285+00:00",
   "codes": [
+    {
+      "id": 1782645784919,
+      "name": "Code Stake — stakecom21rwtwal...",
+      "description": {
+        "fr": "Drop Stake",
+        "en": "Stake drop"
+      },
+      "value": {
+        "fr": "—",
+        "en": "—"
+      },
+      "wager": null,
+      "claims": null,
+      "code": "stakecom21rwtwalntdi8f",
+      "type": "drop",
+      "status": "active",
+      "expires": null,
+      "claimUrl": "https://stake.com/?offer=stakecom21rwtwalntdi8f",
+      "source": "StakeFreeBonusDrops",
+      "addedAt": "2026-06-28T11:23:04+00:00"
+    },
     {
       "id": 1782629525912,
       "name": "Code Stake — stakecomoogkezia...",
