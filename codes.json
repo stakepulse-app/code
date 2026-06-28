@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-06-28T02:31:37.216788+00:00",
+  "updatedAt": "2026-06-28T06:52:05.912990+00:00",
   "codes": [
+    {
+      "id": 1782629525912,
+      "name": "Code Stake — stakecomoogkezia...",
+      "description": {
+        "fr": "Drop Stake",
+        "en": "Stake drop"
+      },
+      "value": {
+        "fr": "—",
+        "en": "—"
+      },
+      "wager": null,
+      "claims": null,
+      "code": "stakecomoogkezia4ycylk",
+      "type": "drop",
+      "status": "active",
+      "expires": null,
+      "claimUrl": "https://stake.com/?offer=stakecomoogkezia4ycylk",
+      "source": "StakeFreeBonusDrops",
+      "addedAt": "2026-06-28T06:52:05+00:00"
+    },
     {
       "id": 1782613897216,
       "name": "Code Stake — stakecomhnbxcqlx...",
