@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-06-28T12:22:04.776720+00:00",
+  "updatedAt": "2026-06-28T17:57:05.359988+00:00",
   "codes": [
+    {
+      "id": 1782669425359,
+      "name": "Code Stake — stakecomhmha5ww5...",
+      "description": {
+        "fr": "Drop Stake",
+        "en": "Stake drop"
+      },
+      "value": {
+        "fr": "—",
+        "en": "—"
+      },
+      "wager": null,
+      "claims": null,
+      "code": "stakecomhmha5ww5z4sgoz",
+      "type": "drop",
+      "status": "active",
+      "expires": null,
+      "claimUrl": "https://stake.com/?offer=stakecomhmha5ww5z4sgoz",
+      "source": "StakeFreeBonusDrops",
+      "addedAt": "2026-06-28T17:57:04+00:00"
+    },
     {
       "id": 1782649324776,
       "name": "Code Stake — stakecomqfrdh9jn...",
